@@ -15,10 +15,16 @@
 -->
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:d411d6,100:00d4ff&height=120&section=header&text=Hotel%20Alura&fontSize=70&animation=fadeIn&fontAlignY=38&descAlignY=51&descAlign=62)
-
-</br>
 <img width="auto" height="auto" src="https://media.giphy.com/media/3bi1cij4uzIHnnchTx/giphy.gif"/>
 </br>
+</br>
+
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:d411d6,100:00d4ff&height=120&section=header&text=Cambio%20de%20Divisas&fontSize=70&animation=fadeIn&fontAlignY=38&descAlignY=51&descAlign=62)
+
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:d411d6,100:00d4ff&height=120&section=header&text=Encriptador%20en%20HTML&fontSize=70&animation=fadeIn&fontAlignY=38&descAlignY=51&descAlign=62)
+
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:d411d6,100:00d4ff&height=120&section=header&text=Guante%20Traductor%20LSM&fontSize=70&animation=fadeIn&fontAlignY=38&descAlignY=51&descAlign=62)
+
 <!--
 ![](https://komarev.com/ghpvc/?username=QAJOSEP&label=PROFILE+VIEWS)  ![GitHub Org's stars](https://img.shields.io/github/stars/QAJOSEP?style=social)  ![GitHub Org's stars](https://img.shields.io/github/followers/QAJOSEP?style=social)
 -->
