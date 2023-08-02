@@ -19,7 +19,13 @@
 </br>
 </br>
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:d411d6,100:00d4ff&height=120&section=header&text=Cambio%20de%20Divisas&fontSize=70&animation=fadeIn&fontAlignY=38&descAlignY=51&descAlign=62)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:d411d6,100:00d4ff&height=120&section=header&text=Conversores%20Div.%20y%20Temp&fontSize=70&animation=fadeIn&fontAlignY=38&descAlignY=51&descAlign=62)
+
+
+![Divisas](https://user-images.githubusercontent.com/123029649/231989220-fbfd893c-bbbc-4514-85c7-dd2f5fef3778.gif)
+
+![Temperatura](https://user-images.githubusercontent.com/123029649/231990339-bc1dff34-bd9f-4f3e-81b3-4ea94f9b7712.gif)
+
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:d411d6,100:00d4ff&height=120&section=header&text=Encriptador%20en%20HTML&fontSize=70&animation=fadeIn&fontAlignY=38&descAlignY=51&descAlign=62)
 
