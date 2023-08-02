@@ -30,8 +30,11 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:d411d6,100:00d4ff&height=120&section=header&text=Encriptador%20en%20HTML&fontSize=70&animation=fadeIn&fontAlignY=38&descAlignY=51&descAlign=62)
 <img width="auto" height="auto" src="https://media.giphy.com/media/dNt5yv5FJiysV8PtCH/giphy.gif"/>
 
-
+</br></br>
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:d411d6,100:00d4ff&height=120&section=header&text=Guante%20Traductor%20LSM&fontSize=70&animation=fadeIn&fontAlignY=38&descAlignY=51&descAlign=62)
+<img width="auto" height="auto" src="https://media.giphy.com/media/10NJBaGUAooHx6v7mA/giphy.gif"/>
+
+
 
 <!--
 ![](https://komarev.com/ghpvc/?username=QAJOSEP&label=PROFILE+VIEWS)  ![GitHub Org's stars](https://img.shields.io/github/stars/QAJOSEP?style=social)  ![GitHub Org's stars](https://img.shields.io/github/followers/QAJOSEP?style=social)
